@@ -1,4 +1,4 @@
-# Total-sales-prediction-using-linear-and-non-linear-regression
+# Total sales prediction for cinema tickets using linear and non-linear regression
 
 
 # Table of Contents
