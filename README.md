@@ -1,8 +1,8 @@
 # Total sales prediction for cinema tickets using linear and non-linear regression
 
-* The main objective of this project was to develop machine learning model that can predict total cinema ticket sales.
-* As a learning algorithm, linear and non-linear regression (KNN regressor) are used.
-* The obtained performances for both models are sumarized below.
+* The main objective of this project was to develop a machine learning model that can predict total cinema ticket sales.
+*  As learning algorithms, linear and nonlinear regression (KNN regressor) are used.
+* The obtained performances for both models are summarized below.
 
   |Evaluation matric  | Linear regression| non-linear regression |
   |---|---|---|
