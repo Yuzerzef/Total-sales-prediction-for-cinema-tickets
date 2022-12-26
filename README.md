@@ -1,33 +1,27 @@
 # Total sales prediction for cinema tickets using linear and non-linear regression
 
+* The main objective of this project was to develop machine learning model that can predict total cinema ticket sales.
+* As a learning algorithm, linear and non-linear regression (KNN regressor) are used.
+* The obtained performances for both models are sumarized below.
 
-# Table of Contents
+  |Evaluation matric  | Linear regression| non-linear regression |
+  |---|---|---|
+  |MAE  |   0.2969|  0.02198|
+  |MSE   |  0.14067| 0.00287|
+  |RMSE   |   0.3751|  0.0536|
+  |R-Squared |0.6876| 0.993|
 
-* Data loading 
 
-* Data exploration
+### Language used: Python 
+#### Tools used : pandas, numpy, seaborn, matplotlib, sklearn
 
-* Filling null values with mean
 
-* Correlation plot of the dataset
 
-* Investigating features that have high correlation with the target
 
-* Target normalization using log scale
 
-* Spliting the data into training and testing
+        
 
-* Data normalization
 
-* Linear regression
-
-* Model evaluation
-
-* Non linear regression (knn)
-
-* model evaluation
-
-* conclusion
 
 Correlation plot of the data 
 
